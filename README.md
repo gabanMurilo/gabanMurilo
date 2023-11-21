@@ -6,7 +6,7 @@ Hello! My name is Murilo, and I'm currently studying Computer Science at UFJ, Br
 
 - 📚 Currently pursuing a degree in Computer Science at UFJ.
 - 💻 Proficient in languages such as C, C++, Java, and Python.
-- 🌐 Also skilled in .NET 4.0 and Docker.
+- 🌐 Also skilled in .NET 4.0, unity and Docker.
 
 ## Projects
 
